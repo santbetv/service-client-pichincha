@@ -10,8 +10,8 @@ Microservicio de Clientes, cuentas y movimiento asincrónica
 ### Probar en un ambiente local desde:
 
 ### Url GitHub
-- https://github.com/santbetv/servicio-cliente-banco.git
-- https://github.com/santbetv/servicio-cuenta-movimiento-banco.git
+- https://github.com/santbetv/service-client-pichincha.git
+- https://github.com/santbetv/service-account-movements.git
 
 El proyecto corre sobre un db H2 para probar más rápido, pero también se adjunta
 SQL para probar en db postgreSQL.
