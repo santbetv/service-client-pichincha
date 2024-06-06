@@ -6,13 +6,8 @@ Microservicio de Clientes, cuentas y movimiento asincrónica
 
 ![image-modeloArquitecturaEventBus](img/SoftwareArchitectureEventBus.png)
 
-Para iniciar estos pasos tener las dos imágenes docker:
 
-### Url Docker
-- docker pull santbetv/microservice-docker-serviciocliente:0.0.2-SNAPSHOT
-- docker pull santbetv/microservice-docker-serviciocuentamovimiento:0.0.2-SNAPSHOT
-
-### Tambien se puede probar en un ambiente local desde:
+### Probar en un ambiente local desde:
 
 ### Url GitHub
 - https://github.com/santbetv/servicio-cliente-banco.git
